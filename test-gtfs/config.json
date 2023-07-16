@@ -1,0 +1,13 @@
+{
+  "agency": {
+    "agency_key": "GO",
+    "gtfs_static_url": "https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/GO-GTFS.zip",
+    "gtfs_rt_tripupdates_url": "http://api.openmetrolinx.com/OpenDataAPI/api/V1/Gtfs/Feed/TripUpdates"
+  },
+  "beautify": true,
+  "locale": "en",
+  "noHead": false,
+  "refreshIntervalSeconds": 20,
+  "templatePath": "views/widget",
+  "timeFormat": "12hour"
+}
